@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://technitium.com/dns/">
 		<img src="https://technitium.com/img/logo.png" alt="Technitium DNS Server" /><br />
-		<b>Technitium DNS Server</b>
+		<b>Technitium DNS Server ( Myanmar Flavor )</b>
 	</a><br />
 	<br />
 	<b>Self host a DNS server for privacy & security</b><br />
